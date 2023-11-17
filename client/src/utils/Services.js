@@ -1,10 +1,10 @@
 import axios from "axios";
 
-// export const baseUrl = "https://online-it-products-backend.onrender.com/api";
-// export const backendUrl = "https://online-it-products-backend.onrender.com";
+export const baseUrl = "https://e-commerce-system-backend.onrender.com/api";
+export const backendUrl = "https://e-commerce-system-backend.onrender.com";
 
-export const baseUrl = "http://localhost:3001/api";
-export const backendUrl = "http://localhost:3001";
+// export const baseUrl = "http://localhost:3001/api";
+// export const backendUrl = "http://localhost:3001";
 
 // DB_HOST=b1niqsxa4j0domrkbsco-mysql.services.clever-cloud.com
 // DB_USER=uenooh0ash2f7g8h
